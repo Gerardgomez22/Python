@@ -14,7 +14,7 @@ st.write("Explorador de datos de la web 'Books to Scrape'.")
 st.sidebar.header('Filtros')
 
 precio_seleccionado = st.sidebar.slider(
-    'Filtrar por Precio (£):',
+    'Filtrar por Precio:',
     min_value=float(df['Precio'].min()), 
     max_value=float(df['Precio'].max()),
     value=(float(df['Precio'].min()), float(df['Precio'].max())) 
@@ -41,4 +41,5 @@ st.header('Visualizaciones Gráficas')
 st.subheader('Distribución de Libros por Rating')
 
 rating_counts = df_filtrado['Rating'].value_counts().sort_index()
+
 st.bar_chart(rating_counts)
