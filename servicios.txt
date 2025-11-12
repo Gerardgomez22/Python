@@ -1,0 +1,15 @@
+Bienvenido a Barberia GGA
+Servicios disponibles:
+Corte de pelo: $12
+Cejas: $3,5
+Barba: $5,5
+Barbería (Corte de pelo, barba y cejas): $17,5
+Tinte básico: $25
+Tinte premium: $40
+Lavado y secado: $10
+Tratamiento capilar: $30
+Horario de atención:
+Lunes a Viernes: 9:00 AM - 7:00 PM
+Sábado: 9:00 AM - 3:00 PM
+Domingo: cerrado
+Se necesita cita previa, Reservar por Booksy(GGA BARBER)!
